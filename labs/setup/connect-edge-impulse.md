@@ -197,4 +197,4 @@ to a 32-bit operating system running on a 64-bit CPU."
 ## 📚 Reference
 
 - [Arduino UNO Q docs](https://docs.edgeimpulse.com/hardware/boards/arduino-uno-q)
-- [Edge Impulse Linux SDK](https://docs.edgeimpulse.com/docs/edge-ai-targets/edge-impulse-for-linux)
+- [Edge Impulse Linux SDKs](https://docs.edgeimpulse.com/tools/libraries/sdks/inference/linux)
