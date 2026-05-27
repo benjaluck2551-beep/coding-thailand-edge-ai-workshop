@@ -58,6 +58,10 @@ UNO Q = สองสมองในบอร์ดเดียว
 → Powered by Qualcomm Dragonwing
 ```
 
+<a href="https://www.arduino.cc/product-uno-q/">
+        <img src="https://arduino.cc/cdn-cgi/image/width=2048,quality=60,format=auto/https://www.datocms-assets.com/150482/1769011155-img.png" alt="Arduino UNO Q board" width="360" />
+</a>
+
 ---
 
 ### Modulino — Plug & Play
@@ -73,7 +77,12 @@ Inputs: Buttons, Knob, Joystick
 Outputs: Pixels, Buzzer, LED Matrix, Vibro
 ```
 
-ใส่ภาพ Modulino kit
+<a href="https://store.arduino.cc/pages/modulino">
+        <img src="https://cdn.shopify.com/s/files/1/0438/4735/2471/files/ABX00101_01.iso_copia.png?v=1747320558&width=2048" alt="Modulino Movement" width="220" />
+</a>
+<a href="https://store.arduino.cc/pages/modulino">
+        <img src="https://cdn.shopify.com/s/files/1/0438/4735/2471/files/ABX00109_01.iso_copia.png?v=1747320559&width=2048" alt="Modulino Pixels" width="220" />
+</a>
 
 ---
 
@@ -89,6 +98,10 @@ Pipeline ใน 4 ขั้นตอน:
 
 ทำผ่าน web — ฟรี (free tier)
 ```
+
+<a href="https://www.edgeimpulse.com/product">
+        <img src="https://cdn.prod.website-files.com/618cdeef45d18e4ef2fd85f3/66a253ef787837829651228a_Screenshot%202021-12-23%20at%2010.45%202%20(1).webp" alt="Edge Impulse Studio interface" width="420" />
+</a>
 
 ---
 
