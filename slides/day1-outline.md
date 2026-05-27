@@ -31,6 +31,26 @@ Welcome! 🎉
 
 ---
 
+### เกริ่นก่อนเริ่ม: งานแข่งนี้เดินยังไง
+
+```
+ภาพรวม 3 วัน:
+
+Day 1 → สร้างฐานให้แน่น
+        setup, เก็บ data, train, deploy, test
+
+Day 2 → ต่อยอดเป็น prototype
+        เพิ่ม use case, ความเสถียร, และการใช้งานจริง
+
+Day 3 → demo + pitch
+        อธิบายโจทย์ วิธีทำ ผลทดสอบ และข้อจำกัด
+
+ดังนั้นวันนี้ต้องได้ทั้ง "ของที่รันได้"
+และ "หลักฐานที่เอาไปเล่าต่อได้"
+```
+
+---
+
 ### What is Edge AI?
 
 ```
@@ -105,16 +125,16 @@ Pipeline ใน 4 ขั้นตอน:
 
 ---
 
-### Today's Goal
+### Day 1 ต้องได้อะไรไปต่อในงานแข่ง
 
 ```
-จบวันนี้ ทีมจะมี:
+จบวันนี้ ทีมควรถือของกลับไป 5 อย่าง:
 
 ✅ AI model V1 + V2 (improved)
 ✅ Deploy บน UNO Q ทำงานจริง
 ✅ Prediction Log อย่างน้อย 10 cases
-✅ GitHub repo ของทีม
-✅ Idea Canvas สำหรับ Prototype Day
+✅ GitHub repo ที่มีหลักฐานการทำงาน
+✅ Idea Canvas สำหรับต่อยอด Day 2
 ```
 
 ---
@@ -122,7 +142,10 @@ Pipeline ใน 4 ขั้นตอน:
 ### 30-Point Skill Assessment
 
 ```
-ประเมินตลอดวัน ที่ GitHub history คือหลักฐาน
+Day 1 = 30 คะแนน / 100 ทั้งโครงการ
+
+ประเมินตลอดวัน โดยดูจากหลักฐานจริง:
+GitHub history, การ deploy, log การทดสอบ, และการอธิบายงาน
 
 Setup & Safety              5 pts
 Core Implementation        10 pts  ★ มากสุด
