@@ -27,20 +27,20 @@
 
 **บ่าย — เทรนจริง**
 - [✅ ] input ที่เลือกเทรน: ฝาขวด,ขวดน้ำ
-- [ ] เทรน V1 + อ่าน F1/confusion matrix → [afternoon/model.md](afternoon/model.md)
-- [ ] deploy ลงบอร์ดรันได้ (รูป/คลิปใน `assets/`)
-- [ ] prediction log ≥10 cases → [afternoon/predictions.csv](afternoon/predictions.csv)
+- [✅ ] เทรน V1 + อ่าน F1/confusion matrix → [afternoon/model.md](afternoon/model.md)
+- [✅ ] deploy ลงบอร์ดรันได้ (รูป/คลิปใน `assets/`)
+- [ ✅] prediction log ≥10 cases → [afternoon/predictions.csv](afternoon/predictions.csv)
 
 **ต่อยอด — ไอเดียนวัตกรรม**
-- [ ] Lean Canvas 4 ช่องแรก → [idea-canvas.md](idea-canvas.md)
+- [ ✅] Lean Canvas 4 ช่องแรก → [idea-canvas.md](idea-canvas.md)
 
 ## 📝 ตอบสั้น 3 ข้อ (ปิดวัน)
-**1. ทีมสอน AI ให้ทำอะไร? (ปัญหา + ผู้ใช้)** _______________
-**2. model ทำได้ดีแค่ไหน F1 ต่ำสุดที่ class ไหน ผิดเพราะอะไร?** _______________
-**3. ถ้ามีเวลาอีก 1 ชม. จะแก้อะไรก่อน?** _______________
+**1. ทีมสอน AI ให้ทำอะไร? (ปัญหา + ผู้ใช้)** ให้จำแนกประเภทระหว่างขวดกับฝาขวด 
+**2. model ทำได้ดีแค่ไหน F1 ต่ำสุดที่ class ไหน ผิดเพราะอะไร?** model ยังทำได้ไม่ดีสุด F1 ที่ต่ำสุดในคลาสของฝาขวด เพราะรูปภาพตัวอย่างมี bias
+**3. ถ้ามีเวลาอีก 1 ชม. จะแก้อะไรก่อน?** จะแก้การเทรนโมเดลเอไอใหม่ให้ดีกว่าเดิม
 
 ## 🔗 ลิงก์
-- Edge Impulse project: _______________
+- Edge Impulse project: https://l.facebook.com/l.php?u=https%3A%2F%2Fstudio.edgeimpulse.com%2Fstudio%2F1040466%2Facquisition%2Ftraining%3Fpage%3D1%26fbclid%3DIwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNDM3NjI2MzE2OTczNzg4AAEekzFJY3LqXbtaZRekcw2gf6093gPgDNf_uzokU7T_3VDhVROwSM-HxtQEdYs_aem_1Dd4OvExnIEz4aOPvs8mJg&h=AUBeZEFhayUCjwMssZJcM4hZAAOnOQTd3RVmxcXgqJLrQHXUFz7z61_5eJA5i68LeuHnsuUOyzhsTr6lGSwyxVO9bjUuDgEGxALPpKl14ZctNDepnboBAXtasAk2z3XgdJXBd0ihY554Whc&s=1
 - รูป/คลิป model รันบนบอร์ด: ดูใน [assets/](assets/)
 
 ## 📦 ในโฟลเดอร์นี้มีอะไร
