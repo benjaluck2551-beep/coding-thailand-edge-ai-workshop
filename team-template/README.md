@@ -7,22 +7,22 @@
 > กรอกแค่ที่ขีดเส้นใต้ ขอ **ครบ** ดีกว่าสวย
 
 ## 👥 ข้อมูลทีม
-- **ชื่อทีม:** _______________
+- **ชื่อทีม:** Absolute evolution
 - **เลขทีม:** XX
-- **ชื่อบอร์ด:** team-XX-q
+- **ชื่อบอร์ด:** ARDUINO UNO Q
 - **สมาชิก + บทบาท (3H):**
-  - 🛠️ **Hacker** (เทคนิค: ต่อบอร์ด/เก็บ data/train/deploy): _______________
-  - 🎨 **Hipster** (ผู้ใช้: output ที่คนเข้าใจ/รูปแบบใช้งาน): _______________
-  - 📣 **Hustler** (คุณค่า: ปัญหา/ผู้ใช้/เล่าเดโม่): _______________
+  - 🛠️ **Hacker** (เทคนิค: ต่อบอร์ด/เก็บ data/train/deploy): ฮานีฟ
+  - 🎨 **Hipster** (ผู้ใช้: output ที่คนเข้าใจ/รูปแบบใช้งาน): อัซรอน,ฟาเดียร์
+  - 📣 **Hustler** (คุณค่า: ปัญหา/ผู้ใช้/เล่าเดโม่): อัซรอน,ฟาเดียร์
 
 ## ✅ Checklist
 
 **ก่อนเริ่ม**
-- [ ] **Fork repo ทีม** (ทำก่อนเลย จะได้กรอกงานทั้งวัน) → [student/05-submit.md](../student/05-submit.md) ข้อ 1
+- [✅] **Fork repo ทีม** (ทำก่อนเลย จะได้กรอกงานทั้งวัน) → [student/05-submit.md](../student/05-submit.md) ข้อ 1
 
 **เช้า — ทำให้ UNO Q อยู่มือ**
-- [ ] เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
-- [ ] ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
+- [✅] เช็กอุปกรณ์ที่ได้รับครบ → [morning/kit-checklist.md](morning/kit-checklist.md)
+- [✅] ตั้งบอร์ดเป็นของทีม (รหัส/ชื่อ/Wi-Fi) → [student/02-setup-board.md](../student/02-setup-board.md)
 - [ ] ต่อ input + ลอง Modulino 7 ตัว + challenges → [morning/hardware-check.md](morning/hardware-check.md)
 
 **บ่าย — เทรนจริง**
