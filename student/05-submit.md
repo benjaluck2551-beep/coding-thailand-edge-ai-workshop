@@ -1,11 +1,15 @@
 <!-- workshop-header -->
 <img width="1347" height="127" alt="Coding Thailand 2026 header" src="https://github.com/user-attachments/assets/ba5cf267-f460-4fb0-b69b-c461ae061a3b" />
 
-# 📤 ส่งงานผ่าน Fork
+# 📤 Fork + ส่งงาน (Git)
 
 วันแรกใช้ git แค่ "ส่งงาน" พอ ทำผ่านเว็บ GitHub ได้หมด ไม่ต้อง clone
 
-## 1) Fork repo (ครั้งเดียวต่อทีม)
+> ⏰ **ลำดับเวลา:**
+> - **ข้อ 1 (Fork) — ทำตั้งแต่เช้า ก่อนอย่างอื่น** เพราะ kit-checklist / hardware-check ต้องกรอกลง fork ของทีม
+> - **ข้อ 2 (Commit) — ทำได้เรื่อยๆ ทั้งวัน** กรอกเสร็จช่องไหน commit ช่องนั้น ไม่ต้องรอจบ
+
+## 1) Fork repo (ครั้งเดียวต่อทีม — ทำเช้า) ⭐
 
 1. เข้า repo หลัก กด **Fork** (มุมขวาบน)
 

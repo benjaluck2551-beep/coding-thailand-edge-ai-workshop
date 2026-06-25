@@ -9,8 +9,9 @@
 
 | เวลา | ทำอะไร | คู่มือ |
 |---|---|---|
-| ก่อนเริ่ม | เช็กอุปกรณ์ที่ได้รับครบ | [team-template/morning/kit-checklist.md](../team-template/morning/kit-checklist.md) |
 | ก่อนเริ่ม | ลง App Lab (ถ้ายังไม่มี) | [00-install-app-lab.md](00-install-app-lab.md) |
+| ก่อนเริ่ม | **Fork repo ทีม** (ทำก่อน จะได้กรอกงานทั้งวัน) | [05-submit.md](05-submit.md) ข้อ 1 |
+| ก่อนเริ่ม | เช็กอุปกรณ์ที่ได้รับครบ (กรอกใน fork) | [team-template/morning/kit-checklist.md](../team-template/morning/kit-checklist.md) |
 | 09:00–09:20 | เปิดงาน + ดูตัวอย่างปลายทาง | — |
 | 09:20–09:40 | รู้จัก UNO Q (สองสมอง MCU/Linux) | — |
 | 09:40–10:30 | ตั้งบอร์ดให้เป็นของทีม | [02-setup-board.md](02-setup-board.md) |

@@ -6,6 +6,8 @@
 ติ๊กเมื่อต่อผ่าน + แปะรูปอย่างละ 1 (ใส่รูปใน ../assets/)
 คู่มือ: [student/03-morning-inputs.md](../../student/03-morning-inputs.md)
 
+> 📌 กรอกใน **fork ของทีม** — ยังไม่ fork? ทำ [student/05-submit.md](../../student/05-submit.md) ข้อ 1 ก่อน
+
 | Input | ต่อผ่าน? | หลักฐาน |
 |---|---|---|
 | 1. Modulino sensor (Qwiic) | [ ] | ![sensor](../assets/sensor.jpg) |
