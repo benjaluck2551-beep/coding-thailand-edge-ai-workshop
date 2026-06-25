@@ -12,7 +12,7 @@
 - Accuracy (ใน Studio): 50.0
 - F1 score ราย class (class : F1): 0.67,0.00
 - class ที่ F1 ต่ำสุด: PGA
-- รูป Confusion Matrix: ![cm-v1](../assets/cm-v1.png)
+- รูป Confusion Matrix: ![50be1af977f20b63894862458cb29eac.jpeg](team-template/assets/50be1af977f20b63894862458cb29eac.jpeg)
 - อ่านแล้วเห็นอะไร (class ไหนสับสนกับ class ไหน): AI สับสนระหว่าง class Bottle กับ class PGA
 
 ## V2 (ถ้าทัน)
